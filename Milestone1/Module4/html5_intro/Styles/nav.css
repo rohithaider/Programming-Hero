@@ -1,0 +1,17 @@
+nav>ul{
+    display:flex;
+}
+
+nav li{
+    list-style: none;
+    padding-right: 20px;
+    padding-top: 10px;
+    
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+nav a:hover{
+    background-color: brown;
+}
