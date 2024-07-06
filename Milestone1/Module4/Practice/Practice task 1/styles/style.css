@@ -1,0 +1,21 @@
+#panda{
+    border-radius: 50%;
+    border:10px solid purple;
+    padding:10px;
+    
+}
+figcaption{
+    margin-left: 200px;
+    
+}
+#second label{
+    display: flex;
+    flex-direction: column;
+}
+fieldset{
+    margin-right: 400px;
+    padding-bottom: 180px;
+}
+#submit{
+    margin-left: 2px;
+}
